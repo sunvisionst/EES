@@ -1,0 +1,9 @@
+<application>
+<display-name>eesmasstweb</display-name>
+<module>
+<web>
+<web-uri>eesmasstweb.war</web-uri>
+<context-root>/eesmasstweb</context-root>
+</web>
+</module>
+</application>
